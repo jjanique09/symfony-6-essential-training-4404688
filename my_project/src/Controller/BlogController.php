@@ -110,7 +110,7 @@ class BlogController extends AbstractController
 			[
 				'post' => $post,
 				'hello' => 'Hello World',
-				'array' => $array,
+
 				'object' => $object,
 			]
 		);
