@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e9390e6-2e67-4d4d-9353-2b528e9718ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Controller/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/BlogController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/blog/edit.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/blog/edit.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/blog/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/blog/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/blog/new.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/blog/new.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/blog/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/blog/show.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog/_post.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/_post.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog/post_show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/post_show.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog/search.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/search.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/default/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/homepage.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/security/login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/security/login.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/translations/messages+intl-icu.nl.xlf" beforeDir="false" afterPath="$PROJECT_DIR$/translations/messages+intl-icu.nl.xlf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/controllers.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/controllers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +146,19 @@
       <path value="$PROJECT_DIR$/vendor/symfony/webpack-encore-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/intl" />
       <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stimulus-bundle" />
+      <path value="$PROJECT_DIR$/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/shopware/app-bundle" />
+      <path value="$PROJECT_DIR$/vendor/shopware/app-php-sdk" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
     </include_path>
   </component>
   <component name="ProjectId" id="2XwlJNlLxRQpolQBZ8HDFc4Yo9Z" />
@@ -184,6 +193,7 @@
       <workItem from="1699602852333" duration="3137000" />
       <workItem from="1700076058588" duration="2608000" />
       <workItem from="1700121136663" duration="17676000" />
+      <workItem from="1700733613017" duration="1520000" />
     </task>
     <servers />
   </component>

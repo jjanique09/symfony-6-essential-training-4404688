@@ -131,6 +131,18 @@
     "nikic/php-parser": {
         "version": "v4.13.2"
     },
+    "php-http/discovery": {
+        "version": "1.19",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "main",
+            "version": "1.18",
+            "ref": "f45b5dd173a27873ab19f5e3180b2f661c21de02"
+        },
+        "files": [
+            "config/packages/http_discovery.yaml"
+        ]
+    },
     "phpstan/phpstan": {
         "version": "1.2.0"
     },
@@ -148,6 +160,20 @@
     },
     "psr/log": {
         "version": "1.1.4"
+    },
+    "shopware/app-bundle": {
+        "version": "2.0",
+        "recipe": {
+            "repo": "github.com/symfony/recipes-contrib",
+            "branch": "main",
+            "version": "1.0",
+            "ref": "1e0d5c7858030b651accf425573b9284e427f162"
+        },
+        "files": [
+            "config/packages/shopware_app.yaml",
+            "config/routes/shopware_app.yaml",
+            "src/Entity/Shop.php"
+        ]
     },
     "symfony/apache-pack": {
         "version": "1.0",
@@ -426,6 +452,15 @@
     },
     "symfony/service-contracts": {
         "version": "v3.0.0"
+    },
+    "symfony/stimulus-bundle": {
+        "version": "2.13",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "main",
+            "version": "2.8",
+            "ref": "9e33a8a3794b603fb4be6c04ee5ecab901ce549e"
+        }
     },
     "symfony/stopwatch": {
         "version": "v6.0.0"
